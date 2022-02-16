@@ -35,7 +35,7 @@ print("Number of words in a file:",count)
 ~~~
 
 ### OUTPUT:
-[!output](./command.png)
+[!output](./text.png)
 
 
 
